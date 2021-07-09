@@ -8,6 +8,7 @@ I hope that this plugin is usefull :)
 - Easy to use (set the groups and the codes for the groups in the `config.yml` and start)
 - Very customizable (You can change a lot of messages in the `messages.yml`)
 - Login for your Admins, Moderators and other Teammates, for more safety on your server
+- how to use?
 
 ### How to?
 1. Go to the config of AdminLogin
